@@ -14,7 +14,7 @@ img{
         white-space: nowrap;
     }
     html{
-        
+        scroll-behavior: smooth;
     }
 
     /* GENERAL STYLES */
